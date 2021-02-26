@@ -65,12 +65,10 @@ GoldenDish is a Simple Food & Cocktails recipe application that updates daily wi
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### In-App Images
 
-* XCode
-  ```sh
-  
-  ```
+![alt text](https://i.gyazo.com/3f5d49c2f1e4849560c0905e7edf9c1e.png)
+![alt text](https://i.gyazo.com/6ff453a79402911ac842aac889d7a902.png)
 
 ### Installation
 
